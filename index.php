@@ -45,7 +45,9 @@
 
 </head>
 <body>
-  <?php echo date("y/m/d"); ?>
+<h1>
+  <?php echo date("Y/m/d"); ?>
+</h1>
 
 
 
